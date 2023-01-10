@@ -1,5 +1,5 @@
 # ProjectUAS
-data = []
+###data = []
 nilai_mhs = []
 
 
@@ -21,5 +21,5 @@ def cari_data(nilai_mhs, data):
   if data in nilai_mhs:
     return True
   else:
-    return False
+    return False ###
 
