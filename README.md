@@ -15,4 +15,6 @@ Kelas: TI.22.A4
 ``input_nilai.py`` pada package view , berisikan function berupa input_data.    
 ``view_nilai.py`` pada package view , berisikan function berupa cetak_daftar_nilai dan cetak_hasil_pencarian.
 
-2. untuk Script dari project tersebut dapat dilihat di file ``script-
+2. untuk Script dari project tersebut dapat dilihat di file ``script project``.
+
+3. untuk tutorial nya bisa dilihat di ``file pdf``
