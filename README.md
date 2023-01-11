@@ -17,4 +17,6 @@ Kelas: TI.22.A4
 
 2. untuk Script dari project tersebut dapat dilihat di file ``script project``.
 
-3. untuk tutorial nya bisa dilihat di ``file pdf``
+3. untuk tutorial nya bisa dilihat di ``pdf project uas``
+
+4. untuk link youtube yang berisi demo program bisa di lihat di ......
