@@ -19,4 +19,4 @@ Kelas: TI.22.A4
 
 3. untuk tutorial nya bisa dilihat di ``pdf project uas``
 
-4. untuk link youtube yang berisi demo program bisa di lihat di ......
+4. untuk link youtube yang berisi demo program bisa di lihat di ``https://www.youtube.com/watch?v=P9h3Jhi8CzI``
